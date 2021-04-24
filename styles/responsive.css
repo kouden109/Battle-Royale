@@ -1,7 +1,0 @@
-@charset "utf-8";
-
-@media screen and (max-width:768px) {
-    h2{font-size: 1.1em;}
-    nav {flex-direction: column;}
-    nav li{margin: 0 1em 1em;}
-}
